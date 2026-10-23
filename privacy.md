@@ -12,7 +12,7 @@ To improve the stability and user experience of WizardBlock, we integrate servic
 * **Google Firebase Analytics:** We use this to understand how the app is used (e.g., screen views, button clicks). It may collect certain identifiers for mobile devices and basic usage statistics. This data is pseudonymized.
 * **Google Firebase Crashlytics:** If the app crashes, a crash log is automatically sent to Google. This contains technical information about the crash, your device model, and your operating system version. No personal data is attached to these reports.
 
-For more information, please review [Google's Privacy & Terms](https://google.com).
+For more information, please review [Google Firebase's Privacy & Terms](https://firebase.google.com/support/privacy) & [Google's Privacy & Terms](https://policies.google.com/privacy).
 
 ### 3. Contact
 If you have any questions, feel free to reach out:
@@ -32,7 +32,7 @@ Um die Stabilität und Benutzererfahrung von WizardBlock kontinuierlich zu verbe
 * **Google Firebase Analytics:** Wir nutzen diesen Dienst, um die Nutzung der App zu verstehen (z. B. aufgerufene Screens, geklickte Buttons). Dabei können bestimmte IDs von Mobilgeräten sowie allgemeine Nutzungsstatistiken erfasst werden. Diese Daten sind pseudonymisiert.
 * **Google Firebase Crashlytics:** Falls die App abstürzt, wird automatisch ein Absturzbericht an Google gesendet. Dieser enthält rein technische Details zum Fehler, das Gerätemodell und die Betriebssystemversion. Es werden dabei keine personenbezogenen Daten übertragen.
 
-Weitere Informationen findest du in den [Datenschutzbestimmungen von Google](https://google.com).
+Weitere Informationen findest du in den [Datenschutzbestimmungen von Google Firebase](https://firebase.google.com/support/privacy) & [Datenschutzbestimmungen von Google](https://policies.google.com/privacy).
 
 ### 3. Kontakt
 Bei Fragen kannst du mich direkt per E-Mail erreichen:

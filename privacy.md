@@ -16,7 +16,7 @@ For more information, please review [Google Firebase's Privacy & Terms](https://
 
 ### 3. Contact
 If you have any questions, feel free to reach out:
-* 📨 **tobi.appications@gmail.com**
+* 📨 **tobi.applications@gmail.com**
 
 ---
 
@@ -36,5 +36,5 @@ Weitere Informationen findest du in den [Datenschutzbestimmungen von Google Fire
 
 ### 3. Kontakt
 Bei Fragen kannst du mich direkt per E-Mail erreichen:
-* 📨 **tobi.appications@gmail.com**
+* 📨 **tobi.applications@gmail.com**
 

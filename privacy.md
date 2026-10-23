@@ -1,6 +1,6 @@
 # Privacy Policy / Datenschutzerklärung — WizardBlock
 
-## 🇬🇧 English
+## 🇬🇧 Privacy Policy
 **WizardBlock** is built as a commercial/free utility app. This service is provided at no cost and is intended for use as is.
 
 ### 1. Data Processing and Local Storage

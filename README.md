@@ -30,3 +30,10 @@ Am einfachsten ist es, direkt hier auf GitHub ein "Issue" zu erstellen:
 ### ✉️ Kontakt per E-Mail
 Falls du kein GitHub-Konto hast, kannst du mich auch direkt per E-Mail erreichen:
 * **tobi.applications@gmail.com**
+
+
+---
+
+## 📄 Legal / Rechtliches
+* 🇬🇧 **[Privacy Policy](privacy)**
+* 🇩🇪 **[Datenschutzerklärung](privacy)**

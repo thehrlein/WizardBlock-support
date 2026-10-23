@@ -35,5 +35,5 @@ Falls du kein GitHub-Konto hast, kannst du mich auch direkt per E-Mail erreichen
 ---
 
 ## 📄 Legal / Rechtliches
-* 🇬🇧 **[Privacy Policy](privacy)**
-* 🇩🇪 **[Datenschutzerklärung](privacy)**
+* 🇬🇧 **[Privacy Policy](privacy#-privacy-policy)**
+* 🇩🇪 **[Datenschutzerklärung](privacy#-datenschutzerklärung)**
